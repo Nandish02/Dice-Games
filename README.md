@@ -17,6 +17,7 @@ Android Studio Giraffe|2022.3.1 Patch 1
 This app consists of two basic dice games. The first game is a luck-based game. You need to roll a die, and if you get a 6, you will earn 5 coins for it. You may try this as many times as you want. The coins you earn will be reflected above as your balance.
 The second game is a gambling game. It is based on a high-risk high-return phenomenon. The rules for this game can be viewed from the info button at the bottom of the screen.
 The known bugs for this app is that it might crash when a user enters a value greater than INT_MAX value which is not possible because the balance itself can be at max an integer.
+
 ---
 ### App Screenshots
 <table>
