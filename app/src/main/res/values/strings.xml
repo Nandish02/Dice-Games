@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Dice Games</string>
+    <string name="wallet_info">Click to roll the die.\nEvery time you hit a six, you earn five coins.</string>
+    <string name="coins">Coins</string>
+    <string name="zero">0</string>
+    <string name="six_faced_die">Six faced die</string>
+    <string name="six_faced_die_1">Six faced die 1</string>
+    <string name="six_faced_die_2">Six faced die 2</string>
+    <string name="six_faced_die_3">Six faced die 3</string>
+    <string name="six_faced_die_4">Six faced die 4</string>
+    <string name="launch_two_or_more">Two or more</string>
+    <string name="stop">Stop</string>
+    <string name="wager">Wager</string>
+    <string name="roll">Roll</string>
+    <string name="go">Go</string>
+    <string name="two_alike">2 Alike</string>
+    <string name="three_alike">3 alike</string>
+    <string name="four_alike">4 alike</string>
+    <string name="back">Back</string>
+    <string name="info">Info</string>
+    <string name="two_or_more_game_info">
+    \n The rules for Two or more game are as follows: \n\n 1. If you select 2 Alike and put a bet value then the four dices are rolled and if you get 2 of the values same on dices then the win value is twice your bet value. \n\n 2. If you select 3 Alike and put a bet value then the four dices are rolled and if you get 3 of the values same on dices then the win value is thrice your bet value. \n\n 3. If you select 4 Alike and put a bet value then the four dices are rolled and if you get 4 of the values same on dices then the win value is four times your bet value. \n\n 4. If you lose the game then according to your option as 2 Alike, 3 Alike, or 4 Alike your balance will be deducted the respective number of times your bet value.
+    </string>
 </resources>

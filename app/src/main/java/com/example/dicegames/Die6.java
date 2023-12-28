@@ -1,4 +1,4 @@
-package androidsamples.java.dicegames;
+package com.example.dicegames;
 
 import java.util.Random;
 

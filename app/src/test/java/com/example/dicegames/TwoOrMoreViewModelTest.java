@@ -1,4 +1,4 @@
-package androidsamples.java.dicegames;
+package com.example.dicegames;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.core.Is.is;

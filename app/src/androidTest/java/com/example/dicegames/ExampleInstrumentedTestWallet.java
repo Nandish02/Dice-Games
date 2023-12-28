@@ -1,9 +1,8 @@
-package androidsamples.java.dicegames;
+package com.example.dicegames;
 
 import static androidx.test.espresso.Espresso.onView;
 import static androidx.test.espresso.action.ViewActions.click;
 import static androidx.test.espresso.assertion.ViewAssertions.matches;
-import static androidx.test.espresso.matcher.ViewMatchers.withHint;
 import static androidx.test.espresso.matcher.ViewMatchers.withId;
 import static androidx.test.espresso.matcher.ViewMatchers.withText;
 import static org.junit.Assert.assertEquals;
@@ -56,6 +55,6 @@ public class ExampleInstrumentedTestWallet {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("androidsamples.java.dicegames", appContext.getPackageName());
+        assertEquals("com.example.dicegames", appContext.getPackageName());
     }
 }

@@ -1,9 +1,8 @@
-package androidsamples.java.dicegames;
-
-import androidx.appcompat.app.AppCompatActivity;
+package com.example.dicegames;
 
 import android.os.Bundle;
-import android.widget.TextView;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class Info extends AppCompatActivity {
 

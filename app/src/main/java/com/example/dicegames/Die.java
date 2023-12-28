@@ -1,4 +1,4 @@
-package androidsamples.java.dicegames;
+package com.example.dicegames;
 
 /**
  * Interface for a die with arbitrary number of faces.

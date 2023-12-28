@@ -1,11 +1,11 @@
-package androidsamples.java.dicegames;
-
-import org.junit.Before;
-import org.junit.Test;
+package com.example.dicegames;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.assertTrue;
+
+import org.junit.Before;
+import org.junit.Test;
 
 /**
  * Unit tests for {@link Die6}.
